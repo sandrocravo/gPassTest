@@ -1,0 +1,13 @@
+SUAS-INSTRUÇÕES
+
+Rodando o projeto:
+Necessario java 8
+
+Compilando 
+Dentro da pasta src:
+	- javac -d ../bin com/kart/*.java
+
+Rodando:
+	Dentro da pasta bin
+	java com/kart/Main "\localarquivo\log"
+	Ex: java com/kart/Main "C:\sandro\teste.txt"
